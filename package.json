@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "With all of the projects you will be working on here at Lambda School, you will need somewhere to house them!  There is no better opportunity to learn and show off your skills than a beautiful portfolio website.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d HTML"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DowCoder/portfolio-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DowCoder/portfolio-website/issues"
+  },
+  "homepage": "https://DowCoder.github.io/portfolio-website",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
